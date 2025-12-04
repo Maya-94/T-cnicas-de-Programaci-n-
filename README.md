@@ -1,7 +1,7 @@
 # Técnicas de Programación 
 Ejemplos de Programación Orientada a Objetos
 
-Este repositorio contiene ejemplos prácticos desarrollados para la asignatura **Técnicas de Programación**, aplicando los principales conceptos de la Programación Orientada a Objetos (POO).  
+Este repositorio contiene ejemplos prácticos desarrollados de Técnicas de Programación, aplicando los principales conceptos de la Programación Orientada a Objetos.  
 Cada carpeta incluye código con su correspondiente ejemplo de ejecución.
 
 ---
