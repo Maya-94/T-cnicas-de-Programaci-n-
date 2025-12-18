@@ -27,3 +27,4 @@ if __name__ == "__main__":
     auto = Auto("Toyota", "Corolla")
     print(auto.encender())
     print(auto.apagar())
+
